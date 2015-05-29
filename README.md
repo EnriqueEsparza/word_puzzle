@@ -3,7 +3,7 @@ Program name: Word Puzzle
 Description: This app allows a user to enter in a string, whose vowels are replaced by dashes on another page. A second user is then expected to guess original string based on the new string w/dashes replacing vowels.
 
 Github: https://github.com/EnriqueEsparza/word_puzzle.git
-Heroku: https://git.heroku.com/quiet-anchorage-8454.git
+Heroku: https://quiet-anchorage-8454.herokuapp.com/
 
 Ruby Setup Gems used: Sinatra, Sinatra-contrib, rspec, capybara, pg,pry, sinatra-activerecord, and rake . Bundler must be installed.
 
